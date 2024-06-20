@@ -1,1 +1,1 @@
-print("Hello, Docker!")
+print("Hello, Docker! This is an update from Ubuntu.")
